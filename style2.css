@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto+Slab:100,400');
+    body {
+        text-align: center;
+        background-color: #120f0b;
+        color: #ffffff;
+        width: 1400px;
+        margin: 0 auto;
+    }
+    
+    img {
+        width: 300px;
+    }
+    
+    h1,h2,h3,p {
+        text-align: left;
+        font-family: 'Roboto Slab', serif;
+    }
+    
+    h1 {
+        font-weight: bolder;
+        font-size: 60px;
+        text-align: center;
+        margin: 40px auto 80px;
+    }
+    
+    h1, h3 {
+        color: #ffffff;
+        font-weight: 100;
+    }
+    
+    h2 {
+        text-decoration: underline;
+    }
+    
+    p {
+        color: #fff;
+        margin: 10px 40px;
+        font-weight: 100;
+    }
+    
+    p:hover {
+        color: #ff0303;
+        cursor: pointer;
+    }
